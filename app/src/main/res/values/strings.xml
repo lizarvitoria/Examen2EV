@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Examen 2º Periodo de Evaluación</string>
+    <string name="menu">MENU PRINCIPAL</string>
+    <string name="tiempo">EL TIEMPO</string>
+    <string name="datosat">DATOS ATOMICOS</string>
+    <string name="mult">MULTIMEDIA</string>
+    <string name="salir">SALIR</string>
+    <string name="localidad">Escoge una de las siguientes localidades:</string>
+    <string name="tiempohoy">Tiempo actual en:</string>
+    <string name="volver">VOLVER</string>
+    <string name="hora">Hora: </string>
+    <string name="temperatura">Temperatura: </string>
+    <string name="cielo">Estado del cielo: </string>
+    <string name="nomelem">Introduce nombre de elemento quimico: </string>
+    <string name="datelem">INFORMACION DEL ELEMENTO: </string>
+    <string name="simboloAt">Simbolo quimico:  </string>
+    <string name="numAt">Numero Atomico:</string>
+    <string name="pesoAt">Peso Atomico: </string>
+    <string name="puntoEb">Punto de Ebullicion: </string>
+    <string name="densidad">Densidad: </string>
+    <string name="animales">Animales de Granja</string>
+    <string name="burro">burro</string>
+    <string name="caballo">caballo</string>
+    <string name="cabra">cabra</string>
+    <string name="gallina">gallina</string>
+    <string name="gallo">gallo</string>
+    <string name="gato">gato</string>
+    <string name="oveja">oveja</string>
+    <string name="vaca">vaca</string>
+</resources>

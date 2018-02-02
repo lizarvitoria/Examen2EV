@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10px">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/localidad"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="40px">
+        <Button android:id="@+id/btnbilbao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BILBO-BILBAO" />
+        <Button android:id="@+id/btnvitoria"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VITORIA-GASTEIZ" />
+        <Button android:id="@+id/btndonostia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DONOSTIA-SAN SEBASTIAN" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tiempohoy"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt1"/>
+    </LinearLayout>
+
+    <TextView android:id="@+id/txtResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130px"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/volver"
+        android:layout_marginTop="350px"
+        android:layout_marginLeft="200px"
+        android:onClick="salir"/>
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exam 2nd Period of Evaluation</string>
+    <string name="menu">PRINCIPAL MENU</string>
+    <string name="tiempo">THE TIME</string>
+    <string name="datosat">ATOMIC DATAS</string>
+    <string name="mult">MULTIMEDIA</string>
+    <string name="salir">EXIT</string>
+    <string name="localidad">Choose one of the following locations:</string>
+    <string name="tiempohoy">Actual time in:</string>
+    <string name="volver">BACK</string>
+    <string name="hora">Time: </string>
+    <string name="temperatura">Temperature: </string>
+    <string name="cielo">State of the sky: </string>
+    <string name="nomelem">Introduce a name of a chemical element:</string>
+    <string name="datelem">INFORMATION OF THE ELEMENT: </string>
+    <string name="simboloAt">Chemical simbol:  </string>
+    <string name="numAt">Atomic number:  </string>
+    <string name="pesoAt">Atomic weight: </string>
+    <string name="puntoEb">Boiling point: </string>
+    <string name="densidad">Density: </string>
+    <string name="animales">Farm animals: </string>
+    <string name="burro">donkey</string>
+    <string name="caballo">horse</string>
+    <string name="cabra">goat</string>
+    <string name="gallina">chicken</string>
+    <string name="gallo">rooster</string>
+    <string name="gato">cat</string>
+    <string name="oveja">sheep</string>
+    <string name="vaca">cow</string>
+</resources>
